@@ -13,7 +13,6 @@ namespace Exercise1
     class Program
     {
         /// <summary>
-        /// Practices using arrays
         /// </summary>
         /// <param name="args">command-line arguments</param>
         static void Main(string[] args)
