@@ -1,2 +1,2 @@
 # Randomcardgameusingarray
-example of how you can add gameobjects using array
+Example of how you can add gameobjects using array
